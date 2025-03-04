@@ -1,0 +1,216 @@
+{
+    "EMAIL": "dacdidz@gmail.com",
+    "PASSWORD": "10102020@",
+    "NOTIFICATION": true,
+    "language": "vi",
+    "notiGroup": false,
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "UPTIME": 0,
+    "ACCESSTOKEN": "EAAGNO4a7r2wBO3PyvVdMz8HGMlK3o38GzacHy45ZA0Yd6cYmCKoapkUEMOVUv3F5dv9kUWLbn3dWqt5qrJm7WdUD4SDQE1qZAcbyzHud9jZCWymHuISRhQeWdp1nIFuxgdZAWZCZAp6ZCKC2ZAdD9P5zqypU9csIbMw6PnMiS281gsBbhGM0TLOhV5xdFwZDZD",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/erendayyyy/",
+    "ZALO_ADMIN": "",
+    "ADMIN_NAME": "Ng Van Hung",
+    "BOTNAME": "Vincent",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100000895922054",
+        "100047128875560",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "100000895922054",
+        "276",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100047128875560",
+        "100022832821642",
+        "100054892668998"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "Theme": "rainbow",
+        "Admin": "Đỗ Hải Phong",
+        "Setup": {
+            "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "./f",
+    "ACCESSCOOKIE_WHITE": "sb=H8eoZ_-3vX3Y9zlGPlXZIuaD;dpr=1.25;wd=1492x732;datr=CjapZ5Zw4UX4TewiITDP4l0O;locale=vi_VN;ps_l=1;ps_n=1;c_user=61559282801359;xs=14%3A1UdkpqF77zRMmg%3A2%3A1739185163%3A-1%3A13676;presence=C%7B%22lm3%22%3A%22g.28220773224234268%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1739185468935%2C%22v%22%3A1%7D;fr=0mI7IzS6XwfmSpkh5.AWVE_s4pAlDBRnKnyBOGwcZDJMDpd-7WPVsJTw.BnqTYK..AAA.0.0.Bnqd1o.AWWP1kQRC00;",
+    "ACCESSCOOKIE_BLACK": "sb=H8eoZ_-3vX3Y9zlGPlXZIuaD;dpr=1.25;wd=1492x732;datr=CjapZ5Zw4UX4TewiITDP4l0O;locale=vi_VN;ps_l=1;ps_n=1;c_user=61559282801359;xs=14%3A1UdkpqF77zRMmg%3A2%3A1739185163%3A-1%3A13676;fr=0mI7IzS6XwfmSpkh5.AWXpniwfbmCmmQIiRFga-WSoKSg_Pc-7Zij1DQ.BnqTYK..AAA.0.0.Bnqd0D.AWVkXOlxncE;presence=C%7B%22lm3%22%3A%22g.28220773224234268%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1739185468935%2C%22v%22%3A1%7D;",
+    "configApi": {
+        "link": [
+            "https://18c43efc-c39d-4527-8339-b6b5f08ac470-00-c9x891o41cjk.global.replit.dev",
+            "https://www.nguyenmanh.name.vn"
+        ],
+        "key": [
+            "MDongVip_6886904368",
+            "x66MGQ25"
+        ],
+        "domain": "https://apibot.pmd06.repl.co",
+        "keyApi": "MDongVip_6886904368"
+    },
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif"
+        ]
+    },
+    "version": "4.6.9",
+    "iconUnsend": {
+        "status": true,
+        "icon": "😆"
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+    },
+    "fbvideo": {
+        "API_KEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "sim": {
+        "APIKEY": "mzk_NZTUMEHKNZ2R0QVRCIU"
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "leave": {
+        "status": false,
+        "number": 2
+    },
+    "adminOnly": false,
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "working": {
+        "cooldownTime": 320000
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "spam": {
+        "spamDelay": 1
+    },
+    "regboxspam": {
+        "spamDelay": 2
+    },
+    "spamregbox": {
+        "spamDelay": 2
+    },
+    "mode": "vdanime",
+    "antinamebot": {
+        "status": true
+    },
+    "cave": {
+        "cooldownTime": 100000
+    },
+    "diemdanh": {
+        "cooldownTime": 300
+    },
+    "farm": {
+        "cooldownTime": 300000
+    },
+    "fb": {
+        "API_KEY": "FI6bX3kC"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyANZ2iLlzjDztWXgbCgL8Oeimn3i3qd0bE"
+    },
+    "nhantien": {
+        "cooldownTime": 43200000
+    },
+    "poke": {
+        "APIKEY": ""
+    },
+    "zombie": {
+        "cooldownTime": 1200000
+    },
+    "adminPaseOnly": false
+}
